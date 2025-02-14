@@ -1,2 +1,2 @@
 # Clicker_Game
-Java kodlama dili ile yazdıpım Tıklama Oyunu
+Java kodlama dili ile yazdığım Tıklama Oyunu
